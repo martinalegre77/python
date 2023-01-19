@@ -1,3 +1,6 @@
+# Obtener la temperatura de una ciudad
+# TKinter
+
 import tkinter as tk
 from tkinter import ttk, messagebox
 import requests
